@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Raejae Soiha</h1>
+<h1 align="center">Hi I'm Raejae</h1>
 <h3 align="center">🔐 Cybersecurity Student | 💻 Full-Stack Developer | 🚀 Secure Systems Builder</h3>
 
 <p align="center">

@@ -13,7 +13,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 Cybersecurity-focused Computer Science student at Arizona State University building secure, scalable backend systems and production-ready full-stack applications.
 
@@ -24,7 +24,7 @@ Cybersecurity-focused Computer Science student at Arizona State University build
 
 ---
 
-## 🧠 Engineering Focus
+## Engineering Focus
 
 I design systems where security is a foundation — not an afterthought.
 
@@ -38,26 +38,26 @@ I design systems where security is a foundation — not an afterthought.
 
 ## 🔥 Featured Projects
 
-### 🔐 BabyShare  
+### BabyShare  
 Secure LAN file sharing platform implementing encrypted file transfer, QR-based device pairing, temporary access control, and session-based validation.  
 **Tech:** Node.js, Express, React, TypeScript
 
-### 📊 DigiClips Administration  
+### DigiClips Administration  
 Full-stack monitoring and administrative dashboard featuring role-based access control, scalable backend services, and structured data management.  
 **Tech:** Node.js, PostgreSQL, Angular
 
-### ✍ Open E-Signature System  
+### Open E-Signature System  
 Secure digital document signing workflow with validation, integrity protection, and authentication safeguards.  
 **Tech:** Node.js, Secure API Architecture
 
-### 🔒 SecureVPN (WireGuard Based)  
+### SecureVPN (WireGuard Based)  
 Self-hosted VPN infrastructure implementing secure tunneling and role-based management for controlled network access.
 
 ---
 
-## ⚡ Technical Stack
+## Technical Stack
 
-### 💻 Languages
+### Languages
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -113,7 +113,7 @@ Self-hosted VPN infrastructure implementing secure tunneling and role-based mana
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaejaeSoiha&theme=tokyonight&hide_border=true" />

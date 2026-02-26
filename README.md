@@ -13,25 +13,25 @@
 
 ---
 
-## About Me
+## 👋 About Me
 
-Cybersecurity-focused computer science student at Arizona State University building secure, scalable backend systems and full-stack applications.
+Cybersecurity-focused Computer Science student at Arizona State University building secure, scalable backend systems and production-ready full-stack applications.
 
-- 🔐 Security-first system design  
-- 🛡 Secure APIs & encrypted data flows  
-- ⚙ Clean backend architecture  
-- 🚀 Production-ready deployments  
+- 🔐 Security-first architecture & system design  
+- 🛡 Secure APIs, authentication & encrypted data handling  
+- ⚙ Clean backend architecture & RESTful services  
+- 🚀 Deployment-focused engineering mindset  
 
 ---
 
 ## 🧠 Engineering Focus
 
-I design systems with security as a foundation, not an afterthought.
+I design systems where security is a foundation — not an afterthought.
 
 - Role-Based Access Control (RBAC)
 - Secure authentication & session management
-- Encrypted LAN communication
-- RESTful API architecture
+- Encrypted LAN & network communication
+- RESTful API design & validation
 - Infrastructure hardening & deployment workflows
 
 ---
@@ -39,19 +39,19 @@ I design systems with security as a foundation, not an afterthought.
 ## 🔥 Featured Projects
 
 ### 🔐 BabyShare  
-Secure LAN file sharing platform implementing encrypted file transfer, QR-based device pairing, and temporary access control.  
-Tech: Node.js, Express, React, TypeScript
+Secure LAN file sharing platform implementing encrypted file transfer, QR-based device pairing, temporary access control, and session-based validation.  
+**Tech:** Node.js, Express, React, TypeScript
 
 ### 📊 DigiClips Administration  
-Full-stack monitoring dashboard with role-based admin controls and scalable backend architecture.  
-Tech: Node.js, PostgreSQL, Angular
+Full-stack monitoring and administrative dashboard featuring role-based access control, scalable backend services, and structured data management.  
+**Tech:** Node.js, PostgreSQL, Angular
 
 ### ✍ Open E-Signature System  
-Secure digital document signing workflow with integrity validation and authentication controls.  
-Tech: Node.js, Secure API Design
+Secure digital document signing workflow with validation, integrity protection, and authentication safeguards.  
+**Tech:** Node.js, Secure API Architecture
 
 ### 🔒 SecureVPN (WireGuard Based)  
-Self-hosted VPN infrastructure with role-based management and secure tunneling.
+Self-hosted VPN infrastructure implementing secure tunneling and role-based management for controlled network access.
 
 ---
 
@@ -60,18 +60,17 @@ Self-hosted VPN infrastructure with role-based management and secure tunneling.
 **Backend:** Node.js, Express, REST APIs  
 **Frontend:** React, Angular, TypeScript  
 **Database:** PostgreSQL, MongoDB  
-**Systems:** Linux, Docker  
+**Systems & DevOps:** Linux, Docker, Git  
 **Languages:** JavaScript, TypeScript, Python, Java, C/C++, C#
 
 ---
 
 ## 🚧 Currently Improving
 
-- Strengthening BabyShare encryption & session handling
-- Enhancing API validation & error handling
-- Improving backend monitoring architecture
-- Refining deployment & infrastructure setup
-
+- Strengthening encryption & session handling in BabyShare  
+- Enhancing API validation & backend security controls  
+- Optimizing monitoring logic in DigiClips  
+- Refining deployment & infrastructure workflows  
 
 ---
 

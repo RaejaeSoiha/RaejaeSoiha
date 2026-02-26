@@ -71,3 +71,12 @@ Self-hosted VPN infrastructure with role-based management and secure tunneling.
 - Enhancing API validation & error handling
 - Improving backend monitoring architecture
 - Refining deployment & infrastructure setup
+
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaejaeSoiha&theme=tokyonight&hide_border=true" />
+</p>

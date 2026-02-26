@@ -100,9 +100,21 @@ Self-hosted VPN infrastructure with role-based management & secure tunneling.
 
 ---
 
-## 📊 Activity
+## 🧠 Engineering Focus
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RaejaeSoiha&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaejaeSoiha&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
+I build secure, production-ready systems with emphasis on:
+
+- 🔐 Secure authentication & authorization flows
+- 🛡 Encrypted data transmission & storage
+- 📡 LAN-based communication architecture
+- ⚙ Scalable backend API design
+- 🚀 Clean deployment pipelines
+
+---
+
+## 🚧 Currently Improving
+
+- Strengthening BabyShare encryption & session handling
+- Optimizing DigiClips backend monitoring logic
+- Refining secure API validation patterns
+- Enhancing system performance & architecture clarity

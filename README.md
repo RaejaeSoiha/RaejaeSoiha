@@ -100,13 +100,10 @@ Self-hosted VPN infrastructure with role-based management & secure tunneling.
 
 ---
 
-## 📊 GitHub Intelligence
+## 📊 Activity
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RaejaeSoiha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaejaeSoiha&layout=compact&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RaejaeSoiha&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaejaeSoiha&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
 
